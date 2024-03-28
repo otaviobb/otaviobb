@@ -20,6 +20,6 @@ class Main {
 		num3 = ler.nextDouble();
     
 		total = num1+num2+num3+num3/3;
-		System.out.print("o TOTAL DA FACADA É: " + total);
+		System.out.print("A média aritimética é: " + total);
   }
 }
